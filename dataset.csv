@@ -1,0 +1,201 @@
+text,label
+"Okay, go ahead.",interested
+Now isn't uh a good time.,callback_request
+"I'd like to hear more, but I'm unavailable at the moment I mean",callback_request
+Can you try me again this afternoon?,callback_request
+I'm not looking to make any changes right now.,not_interested
+I'm in actually the middle of something right now.,callback_request
+Yeah actually I mean I've been thinking about refinancing,interested
+"If actually this continues, I'll file a complaint.",complaint
+"No uh thanks, we're not looking to refinance right now",not_interested
+Can we schedule a better time to talk?,callback_request
+We're happy with I mean our current mortgage.,not_interested
+Could we talk I mean tomorrow instead?,callback_request
+I'm busy right now but I'd like to hear more. actually,callback_request
+"you know I'm interested, just can't talk at the moment.",callback_request
+I've uh already asked to be removed from your call list,complaint
+"Not sure if I'm interested yet, but I'll listen.",interested
+I've already asked to be removed from your um call list,complaint
+"Possibly, I'm interested in lowering my monthly payment I mean",interested
+You need to take I mean my number out of your system.,complaint
+"I wasn't planning on refinancing, but what do you have?",interested
+"Please stop calling, I'm not interested. I mean",not_interested
+"Maybe another time, but probably not.",not_interested
+"Please stop calling me, I'm honestly not interested",complaint
+Please call me after work.,callback_request
+Can you send me some information first and call back later,callback_request
+Please call me um after work.,callback_request
+"If this I mean continues, I'll file a complaint.",complaint
+Now isn't a good time.,callback_request
+I don't have time for this and you keep calling.,complaint
+Stop you know calling this number.,complaint
+I'm actually looking at actually my mortgage options right now.,interested
+Let's see if well it makes sense for my situation.,interested
+"You can call back if you want, but I doubt you know I'll be interested.",not_interested
+Try me later and uh I'll decide if I want to hear more.,callback_request
+Could we talk tomorrow you know instead?,callback_request
+Let's actually talk when I have a few minutes free.,callback_request
+"Please remove me from your calling listNo actually thanks, I'm not interested.",not_interested
+Maybe I'd listen if you weren't calling every few days.,complaint
+Can we schedule a better time to talk?,callback_request
+How would this affect my monthly you know payment?,interested
+"honestly I wasn't planning on refinancing, but what do you have?",interested
+"No thanks, we're not looking to refinance actually right now",not_interested
+"Not right now, maybe call back another day.",callback_request
+um Could you give me a call next week?,callback_request
+"No honestly thanks, we're not looking to refinance right now",not_interested
+I don't have time for this and you keep calling.,complaint
+I might be interested. Can actually you give me some information?,interested
+How would this affect my monthly payment?,interested
+"No, we're good.",not_interested
+"Stop calling me, I'm not interested.",complaint
+How did you even get my number?,complaint
+Can you send me some information first and call back later,callback_request
+"I don't know much about refinancing, so I mean maybe explain it.",interested
+We're staying with our current lender.,not_interested
+We already refinanced recently,not_interested
+I've told your I mean representatives multiple times to stop contacting me,complaint
+This is I mean the third call I've gotten from you.,complaint
+"Okay, go ahead.",interested
+"Maybe another time, but probably not.",not_interested
+I'm open to hearing what you uh have to offer.,interested
+"Maybe another time, but probably not.",not_interested
+Don't call again unless you have a really good reason.,complaint
+"Not interested, thank you. uh",not_interested
+"I'm a bit busy right now, honestly please try again this afternoon",callback_request
+This isn't something I want to discuss.,not_interested
+Would you mind calling well back this evening?,callback_request
+"you know If this continues, I'll file a complaint.",complaint
+Stop uh calling this number.,complaint
+"Maybe, depending on the terms you know and fees involvedSure, what are the details?",interested
+uh What kind of savings are we talking about?,interested
+Stop calling this number.,complaint
+"I'm interested, just can't um talk at the moment.",callback_request
+We're not looking to make any changes at the moment,not_interested
+"Please remove me from your calling listNo thanks, I'm not interested.",not_interested
+"Possibly, I'm interested uh in lowering my monthly payment",interested
+I'm busy right um now but I'd like to hear more.,callback_request
+I might be interested. Can you give me some information?,interested
+I might be interested. you know Can you give me some information?,interested
+"Please stop calling, I'm not interested.",not_interested
+Yeah actually I've been thinking about refinancing,interested
+I'm happy with my I mean current mortgage,not_interested
+I'm going to uh pass.,not_interested
+I don't think refinancing would benefit uh us right now,not_interested
+I'm going honestly to pass.,not_interested
+"I'm not interested, but thanks for calling honestly",not_interested
+"Yeah, this might be worth discussing. um",interested
+I've already looked into refinancing and honestly decided against it.,not_interested
+Let's see if it makes sense for my situation.,interested
+"I'm kind of busy, but give me the quick version.",interested
+um I'm actually looking at my mortgage options right now.,interested
+I've been thinking about uh refinancing. Tell me more.,interested
+I've told you know your company not to call me.,complaint
+Do you work with homeowners in my area?,interested
+I'm not available right now. Try again later.,callback_request
+I'm busy right now but I'd like to hear more.,callback_request
+I've asked to be removed actually from your list already.,complaint
+Try me um later and I'll decide if I want to hear more.,callback_request
+I never gave permission to be contacted.,complaint
+"You I mean guys keep calling me every single day, this is harassment",complaint
+I'm heading into a meeting. Can you call back?,callback_request
+Why do I keep getting these calls?,complaint
+I've told your well company not to call me.,complaint
+Why do I keep getting well calls from you after saying no,complaint
+I don't think refinancing would benefit us right now,not_interested
+"You guys keep calling me um every single day, this is harassment",complaint
+We're happy with our current mortgage. well,not_interested
+Try me later and I'll decide if I want to hear more.,callback_request
+We you know already refinanced recently,not_interested
+"I don't know much about refinancing, so maybe explain it.",interested
+I'm in the middle of something right now.,callback_request
+"actually I'm in a meeting at the moment, could you call back later",callback_request
+"Please remove me from your calling listNo thanks, I'm not interested.",not_interested
+"That sounds interesting, can you explain the you know benefits",interested
+I'm in the middle of something right now.,callback_request
+Could you give me a call back in the evening when I'm home,callback_request
+I don't think this is a fit for me.,not_interested
+Now isn't a good time.,callback_request
+I don't have time for this and you keep well calling.,complaint
+"Please stop calling me, I'm not interested you know",complaint
+This is the third call I've gotten from you. actually,complaint
+"No, actually we're good.",not_interested
+This is the third call I've received from your company this week,complaint
+This isn't something I you know want to discuss.,not_interested
+This isn't something honestly I want to discuss.,not_interested
+"Yeah, this might be worth discussing.",interested
+I'm not looking for mortgage offers.,not_interested
+Can you send me some information first actually and call back later,callback_request
+"Please stop calling you know me, I'm not interested",complaint
+Could this help lower my interest rate?,interested
+"Okay, I'm open to hearing some options if the rates are competitive",interested
+"Sure I have a few minutes, what kind of rate could you offer",interested
+This honestly is the third call I've received from your company this week,complaint
+I've told I mean your company not to call me.,complaint
+That sounds interesting. What's I mean the rate?,interested
+Now actually isn't a good time.,callback_request
+Can you try me again this afternoon?,callback_request
+Don't call again unless you have a really good reason. well,complaint
+I'm heading into a meeting. Can you call back?,callback_request
+"I've been comparing lenders recently, what can you tell me you know",interested
+"If this continues, uh I'll file a complaint.",complaint
+I might be interested. Can you give me some uh information?,interested
+What kind of savings are we talking about?,interested
+I don't appreciate being actually called repeatedly.,complaint
+"You guys keep calling me every single day, this is honestly harassment",complaint
+"I don't know much about refinancing, actually so maybe explain it.",interested
+"Please remove me from your calling actually listNo thanks, I'm not interested.",not_interested
+This is the third call I've received from your company this week,complaint
+Please stop I mean contacting me.,complaint
+"I'm a bit busy well right now, please try again this afternoon",callback_request
+"I wasn't planning on refinancing, but honestly what do you have?",interested
+"If these calls continue, I'm going to file a complaintYou people keep calling me every week.",complaint
+I'm not looking to make any changes right now. honestly,not_interested
+"Stop calling me, I'm not interested.",complaint
+How did you even get my number? um,complaint
+"Yeah, this might be worth discussing. actually",interested
+How would this affect my monthly payment?,interested
+Why do I keep getting these calls?,complaint
+Would you mind calling back well this evening?,callback_request
+"You uh guys keep calling me every single day, this is harassment",complaint
+"You can call you know back if you want, but I doubt I'll be interested.",not_interested
+"I wasn't planning on refinancing, but what do you have?",interested
+"No, I don't need any honestly information.",not_interested
+"Okay, go ahead.",interested
+Try me later and I'll decide if I want uh to hear more.,callback_request
+"You can call back if you want, but I doubt I'll be interested.",not_interested
+"No, actually we're good.",not_interested
+Could we talk tomorrow well instead?,callback_request
+well I've already looked into refinancing and decided against it.,not_interested
+Why do I uh keep getting calls from you after saying no,complaint
+You need to take my number out of your system.,complaint
+"No, we're good.",not_interested
+That sounds interesting. What's the rate?,interested
+I'm busy right now and honestly not interested anyway.,not_interested
+"That sounds honestly interesting, can you explain the benefits",interested
+I'm not actually looking for mortgage offers.,not_interested
+We're not looking to make any changes at the moment,not_interested
+"No I mean thanks, we're not looking to refinance right now",not_interested
+"Not interested, thank you. actually",not_interested
+"Please remove me from your calling listNo thanks, I'm not interested.",not_interested
+"This isn't a good time, can well we talk sometime next week",callback_request
+I'm um open to hearing what you have to offer.,interested
+"I'm a bit you know busy right now, please try again this afternoon",callback_request
+"Maybe another time, but probably not.",not_interested
+"Not right now, maybe call back another day.",callback_request
+Would you mind calling back this evening?,callback_request
+I'm on the Do Not Call list.,complaint
+Try me later and I'll decide if I want to hear more.,callback_request
+I'm not available right now. Try again later.,callback_request
+I already refinanced recently.,not_interested
+honestly That sounds interesting. What's the rate?,interested
+What kind of savings are we talking about?,interested
+Can you reach out again in a few days?,callback_request
+I've asked to be removed from your list actually already.,complaint
+"If this continues, I'll file a complaint. I mean",complaint
+Let's see if well it makes sense for my situation.,interested
+"Yeah, I'd like to hear more actually about it.",interested
+"I've been comparing lenders recently, what can you actually tell me",interested
+"I'm pretty busy these days, but you can call back next week.",callback_request
+I'm busy right now but I'd like to hear more.,callback_request
+I'm reporting these calls if they don't stop.,complaint
